@@ -43,7 +43,15 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Operators and conditions summary
 
 #
- - [ ] <b>Day 4</b>
+ - [x] <b>Day 4</b>
+* For loops
+* While loops
+* Repeat loops
+* Exiting loops
+* Exiting multiple
+* Skipping items
+* Infinite loops
+* Looping summary
  
  #
  - [ ] <b>Day 5</b>
