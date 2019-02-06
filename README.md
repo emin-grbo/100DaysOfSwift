@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-4/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-6/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -68,7 +68,12 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Functions summary
  
  #
- - [ ] <b>Day 6</b>
+ - [x] <b>Day 6</b>
+* Creating basic closures
+* Accepting parameters in a closure
+* Returning values from a closure
+* Closures as parameters
+* Trailing closure syntax
  
  #
  - [ ] <b>Day 7</b>
