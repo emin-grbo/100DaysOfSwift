@@ -76,7 +76,14 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Trailing closure syntax
  
  #
- - [ ] <b>Day 7</b>
+ - [x] <b>Day 7</b>
+* Using closures as parameters when they accept parameters
+* Using closures as parameters when they return values
+* Shorthand parameter names
+* Closures with multiple parameters
+* Returning closures from functions
+* Capturing values
+* Closures summary
  
  #
  - [ ] <b>Day 8</b>
