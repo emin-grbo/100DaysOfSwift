@@ -87,18 +87,54 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
  
  #
  - [x] <b>Day 8</b>
-* Creating your own structs – test
-* Computed properties – test
-* Property observers – test
-* Methods – test
-* Mutating methods – test
-* Properties and methods of strings – test
-* Properties and methods of arrays – test
+* Creating your own structs
+* Computed properties
+* Property observers
+* Methods
+* Mutating methods
+* Properties and methods of strings
+* Properties and methods of arrays
 
  #
  - [ ] <b>Day 9</b>
  
  #
  - [ ] <b>Day 10</b>
+
+ #
+ - [ ] <b>Day 11</b>
+ 
+ #
+ - [ ] <b>Day 12</b>
+
+ #
+ - [ ] <b>Day 13</b>
+ 
+ #
+ - [ ] <b>Day 14</b>
+
+ #
+ - [ ] <b>Day 15</b>
+ 
+ #
+ - [ ] <b>Day 16</b>
+
+ #
+ - [ ] <b>Day 17</b>
+ 
+ #
+ - [ ] <b>Day 18</b>
+
+ #
+ - [ ] <b>Day 9</b>
+ 
+ #
+ - [ ] <b>Day 10</b>
+
+ #
+ - [ ] <b>Day 19</b>
+ 
+ #
+ - [ ] <b>Day 20</b>
 
 
