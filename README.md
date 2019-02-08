@@ -86,8 +86,15 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Closures summary
  
  #
- - [ ] <b>Day 8</b>
- 
+ - [x] <b>Day 8</b>
+* Creating your own structs – test
+* Computed properties – test
+* Property observers – test
+* Methods – test
+* Mutating methods – test
+* Properties and methods of strings – test
+* Properties and methods of arrays – test
+
  #
  - [ ] <b>Day 9</b>
  
