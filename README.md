@@ -96,10 +96,24 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Properties and methods of arrays
 
  #
- - [ ] <b>Day 9</b>
+ - [x] <b>Day 9</b>
+* Initializers
+* Referring to the current instance
+* Lazy properties
+* Static properties and methods
+* Access control
+* Structs summary
  
  #
- - [ ] <b>Day 10</b>
+ - [x] <b>Day 10</b>
+* Creating your own classes
+* Class inheritance
+* Overriding methods
+* Final classes
+* Copying objects
+* Deinitializers
+* Mutability
+* Classes summary
 
  #
  - [ ] <b>Day 11</b>
