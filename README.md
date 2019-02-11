@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-10/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-11/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -116,7 +116,13 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Classes summary
 
  #
- - [ ] <b>Day 11</b>
+ - [x] <b>Day 11</b>
+* Protocols
+* Protocol inheritance
+* Extensions
+* Protocol extensions
+* Protocol-oriented programming
+* Protocols and extensions summary
  
  #
  - [ ] <b>Day 12</b>
