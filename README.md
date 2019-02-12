@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-11/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-12/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -125,7 +125,18 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Protocols and extensions summary
  
  #
- - [ ] <b>Day 12</b>
+ - [x] <b>Day 12</b>
+* Handling missing data
+* Unwrapping optionals
+* Unwrapping with guard
+* Force unwrapping
+* Implicitly unwrapped optionals
+* Nil coalescing
+* Optional chaining
+* Optional try
+* Failable initializers
+* Typecasting
+* Optionals summary
 
  #
  - [ ] <b>Day 13</b>
