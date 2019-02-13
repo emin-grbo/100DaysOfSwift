@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-12/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-13/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -139,7 +139,16 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Optionals summary
 
  #
- - [ ] <b>Day 13</b>
+ - [x] <b>Day 13</b>
+* Variables and constants
+* Types of Data
+* Operators
+* String interpolation
+* Arrays
+* Dictionaries
+* Conditional statements
+* Loops
+* Switch case
  
  #
  - [ ] <b>Day 14</b>
