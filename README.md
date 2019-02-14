@@ -149,6 +149,7 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Conditional statements
 * Loops
 * Switch case
+
 REVIEW DAY
  
  #
