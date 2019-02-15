@@ -153,10 +153,21 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 REVIEW DAY
  
  #
- - [ ] <b>Day 14</b>
+ - [x] <b>Day 14</b>
+* Functions
+* Optionals
+* Optional chaining
+* Enumerations
+* Structs
+* Classes
 
  #
- - [ ] <b>Day 15</b>
+ - [x] <b>Day 15</b>
+* Properties
+* Static properties and methods
+* Access control
+* Polymorphism and typecasting
+* Closures
  
  #
  - [ ] <b>Day 16</b>
