@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-13/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-16/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -170,7 +170,11 @@ REVIEW DAY
 * Closures
  
  #
- - [ ] <b>Day 16</b>
+ - [x] <b>Day 16</b>
+* Setting up
+* Listing images with FileManager
+* Designing our interface
+
 
  #
  - [ ] <b>Day 17</b>
