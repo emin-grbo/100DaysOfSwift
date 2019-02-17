@@ -171,6 +171,7 @@ REVIEW DAY
  
  #
  - [x] <b>Day 16</b>
+ 
 * Setting up
 * Listing images with FileManager
 * Designing our interface
