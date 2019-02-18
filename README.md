@@ -178,7 +178,10 @@ REVIEW DAY
 
 
  #
- - [ ] <b>Day 17</b>
+ - [x] <b>Day 17</b>
+* Building a detail screen
+* Loading images with UIImage
+* Final tweaks: hidesBarsOnTap, safe area margins
  
  #
  - [ ] <b>Day 18</b>
