@@ -184,7 +184,9 @@ REVIEW DAY
 * Final tweaks: hidesBarsOnTap, safe area margins
  
  #
- - [ ] <b>Day 18</b>
+ - [x] <b>Day 18</b>
+* Wrap up
+* Review for Project 1: Storm Viewer
 
  #
  - [ ] <b>Day 9</b>
