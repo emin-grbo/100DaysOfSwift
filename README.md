@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-18/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-20/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -189,15 +189,13 @@ REVIEW DAY
 * Review for Project 1: Storm Viewer
 
  #
- - [ ] <b>Day 9</b>
+ - [x] <b>Day 19</b>
+* Setting up
+* Designing your layout
+* Making the basic game work: UIButton and CALayer
  
  #
- - [ ] <b>Day 10</b>
-
- #
- - [ ] <b>Day 19</b>
- 
- #
- - [ ] <b>Day 20</b>
-
+ - [x] <b>Day 20</b>
+* Guess which flag: random numbers
+* From outlets to actions: creating an IBAction
 
