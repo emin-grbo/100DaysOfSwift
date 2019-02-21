@@ -199,3 +199,6 @@ REVIEW DAY
 * Guess which flag: random numbers
 * From outlets to actions: creating an IBAction
 
+ #
+ - [ ] <b>Day 21</b>
+
