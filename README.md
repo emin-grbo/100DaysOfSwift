@@ -200,5 +200,7 @@ REVIEW DAY
 * From outlets to actions: creating an IBAction
 
  #
- - [ ] <b>Day 21</b>
+ - [x] <b>Day 21</b>
+* Wrap up
+* Review for Project 2: Guess the Flag
 
