@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-21/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-22/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -204,3 +204,9 @@ REVIEW DAY
 * Wrap up
 * Review for Project 2: Guess the Flag
 
+ #
+ - [x] <b>Day 22</b>
+* About technique projects
+* UIActivityViewController explained
+* Wrap up
+* Review for Project 3: Social media
