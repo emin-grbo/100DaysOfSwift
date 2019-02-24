@@ -210,3 +210,9 @@ REVIEW DAY
 * UIActivityViewController explained
 * Wrap up
 * Review for Project 3: Social media
+
+ #
+ - [x] <b>Day 23</b>
+* What you learned
+* Key points
+* Challenge
