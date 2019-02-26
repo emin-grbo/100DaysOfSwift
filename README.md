@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-24/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-25/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -222,3 +222,8 @@ REVIEW DAY
 * Setting up
 * Creating a simple browser with WKWebView
 * Choosing a website: UIAlertController action sheets
+
+ #
+ - [x] <b>Day 25</b>
+* Monitoring page loads: UIToolbar and UIProgressView
+* Refactoring for the win
