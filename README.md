@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-25/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-26/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -227,3 +227,8 @@ REVIEW DAY
  - [x] <b>Day 25</b>
 * Monitoring page loads: UIToolbar and UIProgressView
 * Refactoring for the win
+
+ #
+ - [x] <b>Day 26</b>
+* Wrap up
+* Review for Project 4: Easy Browser
