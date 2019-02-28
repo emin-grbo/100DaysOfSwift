@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-26/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-27/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -232,3 +232,10 @@ REVIEW DAY
  - [x] <b>Day 26</b>
 * Wrap up
 * Review for Project 4: Easy Browser
+
+ #
+ - [x] <b>Day 27</b>
+* Capture lists in Swift: what’s the difference between weak, strong, and unowned references?
+* Setting up
+* Reading from disk: contentsOfFile
+* Pick a word, any word: UIAlertController
