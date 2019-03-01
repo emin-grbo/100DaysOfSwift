@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-27/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-28/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -239,3 +239,9 @@ REVIEW DAY
 * Setting up
 * Reading from disk: contentsOfFile
 * Pick a word, any word: UIAlertController
+
+ #
+ - [x] <b>Day 28</b>
+* Prepare for submission: lowercased() and IndexPath
+* Checking for valid answers
+* Or else what?
