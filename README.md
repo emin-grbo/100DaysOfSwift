@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-28/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-29/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -245,3 +245,8 @@ REVIEW DAY
 * Prepare for submission: lowercased() and IndexPath
 * Checking for valid answers
 * Or else what?
+
+ #
+ - [x] <b>Day 29</b>
+* Wrap up
+* Review for Project 5: Word Scramble
