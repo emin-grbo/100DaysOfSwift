@@ -250,3 +250,9 @@ REVIEW DAY
  - [x] <b>Day 29</b>
 * Wrap up
 * Review for Project 5: Word Scramble
+
+ #
+ - [x] <b>Day 30</b>
+* Setting up
+* Advanced Auto Layout
+* Auto Layout in code: addConstraints() with Visual Format Language
