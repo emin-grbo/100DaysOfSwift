@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-29/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-31/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -256,3 +256,10 @@ REVIEW DAY
 * Setting up
 * Advanced Auto Layout
 * Auto Layout in code: addConstraints() with Visual Format Language
+
+ #
+ - [x] <b>Day 31</b>
+* Auto Layout metrics and priorities: constraints(withVisualFormat:)
+* Auto Layout anchors
+* Wrap up
+* Review for Project 6: Auto Layout
