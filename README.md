@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-31/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-32/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -263,3 +263,9 @@ REVIEW DAY
 * Auto Layout anchors
 * Wrap up
 * Review for Project 6: Auto Layout
+
+ #
+ - [x] <b>Day 32</b>
+* What you learned
+* Key points
+* Challenge
