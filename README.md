@@ -269,3 +269,9 @@ REVIEW DAY
 * What you learned
 * Key points
 * Challenge
+
+ #
+ - [x] <b>Day 33</b>
+* Setting up
+* Creating the basic UI: UITabBarController
+* Parsing JSON using the Codable protocol
