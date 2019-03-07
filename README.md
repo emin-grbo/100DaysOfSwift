@@ -275,3 +275,8 @@ REVIEW DAY
 * Setting up
 * Creating the basic UI: UITabBarController
 * Parsing JSON using the Codable protocol
+
+ #
+ - [x] <b>Day 34</b>
+* Rendering a petition: loadHTMLString
+* Finishing touches: didFinishLaunchingWithOptions
