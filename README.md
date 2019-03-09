@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-35/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-36/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -285,3 +285,8 @@ REVIEW DAY
  - [x] <b>Day 35</b>
 * Wrap up
 * Review for Project 7: Whitehouse Petitions
+
+ #
+ - [x] <b>Day 36</b>
+* Setting up
+* Building a UIKit user interface programmatically
