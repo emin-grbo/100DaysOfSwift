@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-36/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-37/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -290,3 +290,9 @@ REVIEW DAY
  - [x] <b>Day 36</b>
 * Setting up
 * Building a UIKit user interface programmatically
+
+ #
+ - [x] <b>Day 37</b>
+* Loading a level and adding button targets
+* It's play time: firstIndex(of:) and joined()
+* Property observers: didSet
