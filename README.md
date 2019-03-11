@@ -296,3 +296,8 @@ REVIEW DAY
 * Loading a level and adding button targets
 * It's play time: firstIndex(of:) and joined()
 * Property observers: didSet
+
+ #
+ - [x] <b>Day 38</b>
+* Wrap up
+* Review for Project 8: 7 Swifty Words
