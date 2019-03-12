@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-37/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-39/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -301,3 +301,12 @@ REVIEW DAY
  - [x] <b>Day 38</b>
 * Wrap up
 * Review for Project 8: 7 Swifty Words
+
+
+ #
+ - [x] <b>Day 39</b>
+* Setting up
+* Why is locking the UI bad?
+* GCD 101: async()
+* Back to the main thread: DispatchQueue.main
+* Easy GCD using performSelector(inBackground:)
