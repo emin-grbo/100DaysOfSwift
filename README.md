@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-39/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-40/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -310,3 +310,8 @@ REVIEW DAY
 * GCD 101: async()
 * Back to the main thread: DispatchQueue.main
 * Easy GCD using performSelector(inBackground:)
+
+ #
+ - [x] <b>Day 40</b>
+* Wrap up
+* Review for Project 9: Grand Central Dispatch
