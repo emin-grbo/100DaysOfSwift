@@ -315,3 +315,9 @@ REVIEW DAY
  - [x] <b>Day 40</b>
 * Wrap up
 * Review for Project 9: Grand Central Dispatch
+
+ #
+ - [x] <b>Day 41</b>
+* What you learned
+* Key points
+* Challenge
