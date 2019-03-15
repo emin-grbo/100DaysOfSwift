@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-41/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-42/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -321,3 +321,9 @@ REVIEW DAY
 * What you learned
 * Key points
 * Challenge
+
+ #
+ - [x] <b>Day 42</b>
+* Setting up
+* Designing UICollectionView cells
+* UICollectionView data sources
