@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-43/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-44/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -333,3 +333,8 @@ REVIEW DAY
 * Importing photos with UIImagePickerController
 * Custom subclasses of NSObject
 * Connecting up the people
+
+ #
+ - [x] <b>Day 44</b>
+* Wrap up
+* Review for Project 10: Grand Central Dispatch
