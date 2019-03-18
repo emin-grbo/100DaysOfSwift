@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-44/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-45/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -338,3 +338,9 @@ REVIEW DAY
  - [x] <b>Day 44</b>
 * Wrap up
 * Review for Project 10: Grand Central Dispatch
+
+ #
+ - [x] <b>Day 45</b>
+* Setting up
+* Falling boxes: SKSpriteNode, UITouch, SKPhysicsBody
+* Bouncing balls: circleOfRadius
