@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-47/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-48/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -356,3 +356,9 @@ REVIEW DAY
 * Special effects: SKEmitterNode
 * Wrap up
 * Review for Project 11: Pachinko
+
+ #
+ - [x] <b>Day 48</b>
+* Setting up
+* Reading and writing basics: UserDefaults
+* Fixing Project 10: NSCoding
