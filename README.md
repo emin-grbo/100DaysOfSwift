@@ -362,3 +362,9 @@ REVIEW DAY
 * Setting up
 * Reading and writing basics: UserDefaults
 * Fixing Project 10: NSCoding
+
+ #
+ - [x] <b>Day 49</b>
+* Fixing Project 10: Codable
+* Wrap up
+* Review for Project 12: UserDefaults
