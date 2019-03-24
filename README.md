@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-48/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-51/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -369,4 +369,13 @@ REVIEW DAY
 * Wrap up
 * Review for Project 12: UserDefaults
 
+ #
+ - [x] <b>Day 50</b>
+* What you learned
+* Key points
+* Challenge
 
+ #
+ - [x] <b>Day 51</b>
+* Elements of Functional Programming
+* Teaching Swift at Scale
