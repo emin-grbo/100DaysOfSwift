@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-51/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-52/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -379,3 +379,9 @@ REVIEW DAY
  - [x] <b>Day 51</b>
 * Elements of Functional Programming
 * Teaching Swift at Scale
+
+ #
+ - [x] <b>Day 52</b>
+* Setting up
+* Designing the interface
+* Importing a picture
