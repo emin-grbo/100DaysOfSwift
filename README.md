@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-52/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-53/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -385,3 +385,8 @@ REVIEW DAY
 * Setting up
 * Designing the interface
 * Importing a picture
+
+ #
+ - [x] <b>Day 53</b>
+* Applying filters: CIContext, CIFilter
+* Saving to the iOS photo library
