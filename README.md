@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-53/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-54/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -390,3 +390,8 @@ REVIEW DAY
  - [x] <b>Day 53</b>
 * Applying filters: CIContext, CIFilter
 * Saving to the iOS photo library
+
+ #
+ - [x] <b>Day 54</b>
+* Wrap up
+* Review for Project 13: Instafilter
