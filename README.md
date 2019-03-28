@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-54/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-55/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -395,3 +395,9 @@ REVIEW DAY
  - [x] <b>Day 54</b>
 * Wrap up
 * Review for Project 13: Instafilter
+
+ #
+ - [x] <b>Day 55</b>
+* Setting up
+* Getting up and running: SKCropNode
+* Penguin, show thyself: SKAction moveBy(x:y:duration:)
