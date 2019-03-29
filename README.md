@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-55/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-56/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -401,3 +401,9 @@ REVIEW DAY
 * Setting up
 * Getting up and running: SKCropNode
 * Penguin, show thyself: SKAction moveBy(x:y:duration:)
+
+ #
+ - [x] <b>Day 56</b>
+* Whack to win: SKAction sequences
+* Wrap up
+* Review for Project 14: Whack-a-Penguin
