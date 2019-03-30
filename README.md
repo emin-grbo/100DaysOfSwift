@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-56/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-57/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -407,3 +407,10 @@ REVIEW DAY
 * Whack to win: SKAction sequences
 * Wrap up
 * Review for Project 14: Whack-a-Penguin
+
+ #
+ - [x] <b>Day 57</b>
+* Setting up
+* Preparing for action
+* Switch, case, animate: animate(withDuration:)
+* Transform: CGAffineTransform
