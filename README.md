@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-57/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-58/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -414,3 +414,8 @@ REVIEW DAY
 * Preparing for action
 * Switch, case, animate: animate(withDuration:)
 * Transform: CGAffineTransform
+
+ #
+ - [x] <b>Day 58</b>
+* Wrap up
+* Review for Project 15: Animation
