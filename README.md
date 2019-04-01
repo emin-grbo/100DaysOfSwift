@@ -419,3 +419,9 @@ REVIEW DAY
  - [x] <b>Day 58</b>
 * Wrap up
 * Review for Project 15: Animation
+
+ #
+ - [x] <b>Day 59</b>
+* What you learned
+* Key points
+* Challenge
