@@ -425,3 +425,9 @@ REVIEW DAY
 * What you learned
 * Key points
 * Challenge
+
+ #
+ - [x] <b>Day 60</b>
+* Setting up
+* Up and running with MapKit
+* Annotations and accessory views: MKPinAnnotationView
