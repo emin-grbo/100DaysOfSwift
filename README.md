@@ -431,3 +431,8 @@ REVIEW DAY
 * Setting up
 * Up and running with MapKit
 * Annotations and accessory views: MKPinAnnotationView
+
+ #
+ - [x] <b>Day 61</b>
+* Wrap up
+* Review for Project 16: Capital Cities
