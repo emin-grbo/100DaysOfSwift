@@ -436,3 +436,10 @@ REVIEW DAY
  - [x] <b>Day 61</b>
 * Wrap up
 * Review for Project 16: Capital Cities
+
+ #
+ - [x] <b>Day 62</b>
+* Setting up
+* Space: the final frontier
+* Bring on the enemies: linearDamping, angularDamping
+* Making contact: didBegin()
