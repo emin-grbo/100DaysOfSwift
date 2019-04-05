@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-58/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-63/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -443,3 +443,8 @@ REVIEW DAY
 * Space: the final frontier
 * Bring on the enemies: linearDamping, angularDamping
 * Making contact: didBegin()
+
+ #
+ - [x] <b>Day 63</b>
+* Wrap up
+* Review for Project 17: Space Race
