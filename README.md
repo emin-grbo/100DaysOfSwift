@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-63/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-64/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -448,3 +448,11 @@ REVIEW DAY
  - [x] <b>Day 63</b>
 * Wrap up
 * Review for Project 17: Space Race
+
+ #
+ - [x] <b>Day 64</b>
+* Setting up
+* Basic Swift debugging using print()
+* Debugging with assert()
+* Debugging with breakpoints
+* View debugging
