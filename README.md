@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-65/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-66/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -461,3 +461,9 @@ REVIEW DAY
  - [x] <b>Day 65</b>
 * Wrap up
 * Review for Project 18: Debugging
+
+ #
+ - [x] <b>Day 66</b>
+* What you learned
+* Key points
+* Challenge
