@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-66/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-67/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -467,3 +467,10 @@ REVIEW DAY
 * What you learned
 * Key points
 * Challenge
+
+ #
+ - [x] <b>Day 67</b>
+* Setting up
+* Making a shell app
+* Adding an extension: NSExtensionItem
+* What do you want to get?
