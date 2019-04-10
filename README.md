@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-67/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-68/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -474,3 +474,9 @@ REVIEW DAY
 * Making a shell app
 * Adding an extension: NSExtensionItem
 * What do you want to get?
+
+ #
+ - [x] <b>Day 68</b>
+* Establishing communication
+* Editing multiline text with UITextView
+* Fixing the keyboard: NotificationCenter
