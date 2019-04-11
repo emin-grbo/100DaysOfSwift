@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-68/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-69/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -480,3 +480,8 @@ REVIEW DAY
 * Establishing communication
 * Editing multiline text with UITextView
 * Fixing the keyboard: NotificationCenter
+
+ #
+ - [x] <b>Day 69</b>
+* Wrap up
+* Review for Project 19: JavaScript Injection
