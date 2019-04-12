@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-69/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-70/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -485,3 +485,10 @@ REVIEW DAY
  - [x] <b>Day 69</b>
 * Wrap up
 * Review for Project 19: JavaScript Injection
+
+
+ #
+ - [x] <b>Day 70</b>
+* Setting up
+* Ready... aim... fire: Timer and follow()
+* Swipe to select
