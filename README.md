@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-70/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-71/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -492,3 +492,15 @@ REVIEW DAY
 * Setting up
 * Ready... aim... fire: Timer and follow()
 * Swipe to select
+
+ #
+ - [x] <b>Day 71</b>
+* Making things go bang: SKEmitterNode
+* Wrap up
+* Review for Project 20: Fireworks Night
+
+ #
+ - [x] <b>Day 72</b>
+* Setting up
+* Scheduling notifications: UNUserNotificationCenter and UNNotificationRequest
+* Acting on responses
