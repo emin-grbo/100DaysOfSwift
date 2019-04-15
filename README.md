@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-71/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-73/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -504,3 +504,8 @@ REVIEW DAY
 * Setting up
 * Scheduling notifications: UNUserNotificationCenter and UNNotificationRequest
 * Acting on responses
+
+ #
+ - [x] <b>Day 73</b>
+* Wrap up
+* Review for Project 21: Local Notifications
