@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-73/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-75/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -509,3 +509,15 @@ REVIEW DAY
  - [x] <b>Day 73</b>
 * Wrap up
 * Review for Project 21: Local Notifications
+
+ #
+ - [x] <b>Day 74</b>
+* What you learned
+* Key points
+* Challenge
+
+ #
+ - [x] <b>Day 75</b>
+* Setting up
+* Requesting location: Core Location
+* Hunting the beacon: CLBeaconRegion
