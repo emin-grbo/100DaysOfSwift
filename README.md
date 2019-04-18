@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-75/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-76/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -521,3 +521,8 @@ REVIEW DAY
 * Setting up
 * Requesting location: Core Location
 * Hunting the beacon: CLBeaconRegion
+
+ #
+ - [x] <b>Day 76</b>
+* Wrap up
+* Review for Project 22: Detect-a-Beacon
