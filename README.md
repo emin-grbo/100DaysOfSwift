@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-76/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-77/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -526,3 +526,10 @@ REVIEW DAY
  - [x] <b>Day 76</b>
 * Wrap up
 * Review for Project 22: Detect-a-Beacon
+
+ #
+ - [x] <b>Day 77</b>
+* Setting up
+* Basics quick start: SKShapeNode
+* Shaping up for action: CGPath and UIBezierPath
+* Enemy or bomb: AVAudioPlayer
