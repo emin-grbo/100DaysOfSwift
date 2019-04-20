@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-77/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-78/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -533,3 +533,9 @@ REVIEW DAY
 * Basics quick start: SKShapeNode
 * Shaping up for action: CGPath and UIBezierPath
 * Enemy or bomb: AVAudioPlayer
+
+ #
+ - [x] <b>Day 78</b>
+* Follow the sequence
+* Slice to win
+* Game over, man: SKTexture
