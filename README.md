@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-78/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-80/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -539,3 +539,15 @@ REVIEW DAY
 * Follow the sequence
 * Slice to win
 * Game over, man: SKTexture
+
+ #
+ - [x] <b>Day 79</b>
+* Wrap up
+* Review for Project 23: Swifty Ninja
+
+ #
+ - [x] <b>Day 80</b>
+* Setting up
+* Strings are not arrays
+* Working with strings in Swift
+* Formatting strings with NSAttributedString
