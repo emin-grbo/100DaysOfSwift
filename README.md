@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-80/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-81/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -551,3 +551,8 @@ REVIEW DAY
 * Strings are not arrays
 * Working with strings in Swift
 * Formatting strings with NSAttributedString
+
+ #
+ - [x] <b>Day 81</b>
+* Wrap up
+* Review for Project 24: Swift Strings
