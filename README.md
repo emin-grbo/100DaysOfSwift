@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-81/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-83/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -556,3 +556,16 @@ REVIEW DAY
  - [x] <b>Day 81</b>
 * Wrap up
 * Review for Project 24: Swift Strings
+
+ #
+ - [x] <b>Day 82</b>
+* What you learned
+* Key points
+* Challenge
+
+ #
+ - [x] <b>Day 83</b>
+* Setting up
+* Importing photos again
+* Going peer to peer: MCSession, MCBrowserViewController
+* Invitation only: MCPeerID
