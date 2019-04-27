@@ -574,3 +574,8 @@ REVIEW DAY
  - [x] <b>Day 84</b>
 * Wrap up
 * Review for Project 25: Selfie Share
+
+ #
+ - [x] <b>Day 85</b>
+* Setting up
+* Loading a level: categoryBitMask, collisionBitMask, contactTestBitMask
