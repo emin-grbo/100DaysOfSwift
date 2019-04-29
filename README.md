@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-86/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-87/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -584,3 +584,8 @@ REVIEW DAY
  - [x] <b>Day 86</b>
 * Tilt to move: CMMotionManager
 * Contacting but not colliding
+
+ #
+ - [x] <b>Day 87</b>
+* Wrap up
+* Review for Project 26: Marble Maze
