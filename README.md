@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-88/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-89/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -589,3 +589,17 @@ REVIEW DAY
  - [x] <b>Day 87</b>
 * Wrap up
 * Review for Project 26: Marble Maze
+
+ #
+ - [x] <b>Day 88</b>
+* Setting up
+* Creating the sandbox
+* Drawing into a Core Graphics context with UIGraphicsImageRenderer
+* Ellipses and checkerboards
+* Transforms and lines
+* Images and text
+
+ #
+ - [x] <b>Day 89</b>
+* Wrap up
+* Review for Project 27: Core Graphics
