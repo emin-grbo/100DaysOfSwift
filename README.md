@@ -609,3 +609,14 @@ REVIEW DAY
 * What you learned
 * Key points
 * Challenge
+
+ #
+ - [x] <b>Day 91</b>
+* http://hackingwithswift.com/files/playgrounds/Learn-Core-Graphics-Xcode.zip.
+
+ #
+ - [x] <b>Day 92</b>
+* Setting up
+* The basic text editor
+* Writing somewhere safe: the iOS keychain
+* Touch to activate: Touch ID, Face ID and LocalAuthentication
