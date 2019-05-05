@@ -620,3 +620,9 @@ REVIEW DAY
 * The basic text editor
 * Writing somewhere safe: the iOS keychain
 * Touch to activate: Touch ID, Face ID and LocalAuthentication
+
+
+ #
+ - [x] <b>Day 93</b>
+* Wrap up
+* Review for Project 28: Secret Swift
