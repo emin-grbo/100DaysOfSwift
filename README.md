@@ -626,3 +626,9 @@ REVIEW DAY
  - [x] <b>Day 93</b>
 * Wrap up
 * Review for Project 28: Secret Swift
+
+ #
+ - [x] <b>Day 94</b>
+* Setting up
+* Building the environment: SKTexture and filling a path
+* Mixing UIKit and SpriteKit: UISlider and SKView
