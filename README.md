@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-89/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-95/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -632,3 +632,8 @@ REVIEW DAY
 * Setting up
 * Building the environment: SKTexture and filling a path
 * Mixing UIKit and SpriteKit: UISlider and SKView
+
+ #
+ - [x] <b>Day 95</b>
+* Unleash the bananas: SpriteKit texture atlases
+* Destructible terrain: presentScene
