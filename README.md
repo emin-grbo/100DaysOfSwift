@@ -637,3 +637,8 @@ REVIEW DAY
  - [x] <b>Day 95</b>
 * Unleash the bananas: SpriteKit texture atlases
 * Destructible terrain: presentScene
+
+ #
+ - [x] <b>Day 96</b>
+* Wrap up
+* Review for Project 29: Exploding Monkeys
