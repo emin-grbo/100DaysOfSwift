@@ -642,3 +642,11 @@ REVIEW DAY
  - [x] <b>Day 96</b>
 * Wrap up
 * Review for Project 29: Exploding Monkeys
+
+ #
+ - [x] <b>Day 97</b>
+* Setting up
+* What are we working with?
+* What can Instruments tell us?
+* Fixing the bugs: slow shadows
+* Fixing the bugs: wasted allocations
