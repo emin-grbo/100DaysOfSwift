@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-95/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-99/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -650,3 +650,15 @@ REVIEW DAY
 * What can Instruments tell us?
 * Fixing the bugs: slow shadows
 * Fixing the bugs: wasted allocations
+
+ #
+ - [x] <b>Day 98</b>
+* Fixing the bugs: Running out of memory
+* Wrap up
+* Review for Project 30: Instruments
+
+ #
+ - [x] <b>Day 99</b>
+* What you learned
+* Key points
+* Challenge
