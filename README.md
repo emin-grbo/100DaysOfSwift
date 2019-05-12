@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-99/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-100/100-brightgreen.svg)
 
 # 100DaysOfSwift
 Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/100
@@ -662,3 +662,7 @@ REVIEW DAY
 * What you learned
 * Key points
 * Challenge
+
+ #
+ - [x] <b>Day 100</b>
+* DONE! 99/100 exam score!
