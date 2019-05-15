@@ -665,4 +665,4 @@ REVIEW DAY
 
  #
  - [x] <b>Day 100</b>
-* DONE! 99/100 exam score!
+* DONE! 99/100 exam score!!
