@@ -9,7 +9,7 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Variables.
 * Strings and integers.
 * Multi-line strings.
-* Doubles and booleans
+* Doubles and booleans.
 * String interpolation
 * Constants
 * Type annotations
