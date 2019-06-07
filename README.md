@@ -17,11 +17,11 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 
 #
  - [x] <b>Day 2</b>
-* Arrays
-* Sets
-* Tuples
-* Arrays vs sets vs tuples
-* Dictionaries
+* Arrays.
+* Sets.
+* Tuples.
+* Arrays vs sets vs tuples.
+* Dictionaries.
 * Dictionary default values
 * Creating empty collections
 * Enumerations
