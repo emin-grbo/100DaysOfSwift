@@ -22,9 +22,9 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Tuples.
 * Arrays vs sets vs tuples.
 * Dictionaries.
-* Dictionary default values
-* Creating empty collections
-* Enumerations
+* Dictionary default values.
+* Creating empty collections.
+* Enumerations.
 * Enum associated values
 * Enum raw values
 * Complex types: Summary
