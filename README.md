@@ -25,9 +25,9 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Dictionary default values.
 * Creating empty collections.
 * Enumerations.
-* Enum associated values
-* Enum raw values
-* Complex types: Summary
+* Enum associated values.
+* Enum raw values.
+* Complex types: Summary.
 
 #
  - [x] <b>Day 3</b>
