@@ -31,7 +31,7 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 
 #
  - [x] <b>Day 3</b>
-* Arithmetic Operators
+* Arithmetic Operators.
 * Operator overloading
 * Compound assignment operators
 * Comparison operators
