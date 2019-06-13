@@ -44,7 +44,7 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 
 #
  - [x] <b>Day 4</b>
-* For loops
+* For loops.
 * While loops
 * Repeat loops
 * Exiting loops
