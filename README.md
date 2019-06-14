@@ -33,9 +33,9 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
  - [x] <b>Day 3</b>
 * Arithmetic Operators.
 * Operator overloading.
-* Compound assignment operators
-* Comparison operators
-* Conditions
+* Compound assignment operators.
+* Comparison operators.
+* Conditions.
 * Combining conditions
 * The ternary operator
 * Switch statements
