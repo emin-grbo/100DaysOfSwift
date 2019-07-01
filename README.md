@@ -36,11 +36,11 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Compound assignment operators.
 * Comparison operators.
 * Conditions.
-* Combining conditions
-* The ternary operator
-* Switch statements
-* Range operators
-* Operators and conditions summary
+* Combining conditions.
+* The ternary operator.
+* Switch statements.
+* Range operators.
+* Operators and conditions summary.
 
 #
  - [x] <b>Day 4</b>
