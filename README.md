@@ -55,7 +55,7 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
  
  #
  - [x] <b>Day 5</b>
-* Writing functions
+* Writing functions.
 * Accepting parameters
 * Returning values
 * Parameter labels
