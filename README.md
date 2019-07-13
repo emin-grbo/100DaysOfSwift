@@ -56,9 +56,9 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
  #
  - [x] <b>Day 5</b>
 * Writing functions.
-* Accepting parameters
-* Returning values
-* Parameter labels
+* Accepting parameters.
+* Returning values.
+* Parameter labels.
 * Omitting parameter labels
 * Default parameters
 * Variadic functions
