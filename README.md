@@ -59,9 +59,9 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Accepting parameters.
 * Returning values.
 * Parameter labels.
-* Omitting parameter labels
-* Default parameters
-* Variadic functions
+* Omitting parameter labels.
+* Default parameters.
+* Variadic functions.
 * Writing throwing functions
 * Running throwing functions
 * inout parameters
