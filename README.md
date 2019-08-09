@@ -6,7 +6,7 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 
 #
  - [x] <b>Day 1</b>
-* Variables.
+* Variables..
 * Strings and integers.
 * Multi-line strings.
 * Doubles and booleans.
