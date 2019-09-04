@@ -62,10 +62,10 @@ Paul Hudson's 100 Days of Swift challenge -> https://www.hackingwithswift.com/10
 * Omitting parameter labels.
 * Default parameters.
 * Variadic functions.
-* Writing throwing functions
-* Running throwing functions
-* inout parameters
-* Functions summary
+* Writing throwing functions.
+* Running throwing functions.
+* inout parameters.
+* Functions summary.
  
  #
  - [x] <b>Day 6</b>
